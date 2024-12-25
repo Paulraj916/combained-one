@@ -1,0 +1,15 @@
+[submodule "JS-superwars-basic"]
+	path = JS-superwars-basic
+	url = https://github.com/Paulraj916/JS-superwars-basic.git
+[submodule "JS-superwars-array"]
+	path = JS-superwars-array
+	url = https://github.com/Paulraj916/JS-superwars-array.git
+[submodule "Oru-Kadha-Sollata-Sir"]
+	path = Oru-Kadha-Sollata-Sir
+	url = https://github.com/Paulraj916/Oru-Kadha-Sollata-Sir.git
+[submodule "Premier-Football-Hackathon"]
+	path = Premier-Football-Hackathon
+	url = https://github.com/Paulraj916/Premier-Football-Hackathon.git
+[submodule "iris-steam-a-task"]
+	path = iris-steam-a-task
+	url = https://github.com/Paulraj916/iris-steam-a-task.git
